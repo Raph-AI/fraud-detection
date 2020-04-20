@@ -15,8 +15,8 @@ Binary classification, Unbalanced data, Decision Tree, Random Forest, Neural Net
 
 
 
-![Gradient boosting explained](extract1.png)
+![Gradient boosting explained](/images/extract1.png)
 
 Voici les résultats obtenus avec les différentes méthodes utilisées :
 
-![Results](extract2.png)
+![Results](/images/extract2.png)

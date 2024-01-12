@@ -2,7 +2,7 @@
 
 This report was written as part of the "Machine Learning" course in the Master 2 Statistical Engineering and Data Science program at Sorbonne University.
 
-The report is a theoretical presentation of various Machine Learning methods along with an application on unbalanced classification: Kaggle competition for fraud detection, see <https://www.kaggle.com/c/ieee-fraud-detection/data>
+The report is a theoretical presentation of various Machine Learning methods along with an application to unbalanced classification: Kaggle competition for fraud detection, see <https://www.kaggle.com/c/ieee-fraud-detection/data>
 
 **How to access to the report:** green button `Code` -> `Download ZIP` then open the `.html` file.
 

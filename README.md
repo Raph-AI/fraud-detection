@@ -1,22 +1,30 @@
-# Group project : Machine Learning for fraud detection (dans le cadre du M2)
+# Group project : fraud detection
 
-Theoretical presentation of various ML methods and application to the Kaggle competition for fraud detection (https://www.kaggle.com/c/ieee-fraud-detection/data).
+This report was written as part of the "Machine Learning" course in the Master 2 Statistical Engineering and Data Science program at Sorbonne University.
 
-## Keywords
+The report is a theoretical presentation of various Machine Learning methods along with an application on unbalanced classification: Kaggle competition for fraud detection, see <https://www.kaggle.com/c/ieee-fraud-detection/data>
 
-Binary classification, Unbalanced data, Decision Tree, Random Forest, Neural Networks, Gradient Boosting (LightGBM, XGBoost), SVM, Missing values, Under-sampling, Over-sampling.
-
-## Fichiers
- • ieee_fraud_detection_project : project report python notebook (.ipynb)
- 
- • ieee_fraud_detection_project.html : project report (html)
-  
- • images folder : images of the html file
+**How to access to the report:** green button `Code` -> `Download ZIP` then open the `.html` file.
 
 
+## Table of content
+
+1.  Context and datasets
+2.  Decision trees
+3.  Random Forest
+4.  Neural Networks
+5.  Gradient Boosting
+6.  Support Vector Machine
+7.  Conclusion
+
+
+## Files
+
+-   `ieee_fraud_detection_project.ipynb` : report as a jupyter notebook
+-   `ieee_fraud_detection_project.html` : the notebook converted to `.html` (in French)
 
 ![Gradient boosting explained](/images/extract1.png)
 
-Voici les résultats obtenus avec les différentes méthodes utilisées :
+Benchmark of our methods:
 
 ![Results](/images/extract2.png)
